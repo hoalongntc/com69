@@ -1,9 +1,31 @@
 <head>
+    <base href="/">
     <title>Com69</title>
 </head>
 
-<body>
-    <div ng-app="App">
-        <ng-include src="'client/views/user.ng.html'"></ng-include>
+<body ng-app="App" ng-controller="MainCtrl">
+
+<section id="sidebar-wrapper" class="sidebar-wrapper sidebar-fixed" style="height: 100%">
+    <div class="sidebar">
+        <a id="main-logo" class="main-logo" href="#/today"><img
+                src="/images/com69_logo.png" alt=""></a>
+        <ul class="leftmenu">
+            <li>
+                <h3 href="#/today">Hôm nay</h3>
+                <span></span>
+            </li>
+            <li>
+                <h3 href="#/yesterday">Hôm qua</h3>
+                <span></span>
+            </li>
+            <li>
+                <h3 href="#">Nhiều người ăn</h3>
+                <span></span>
+            </li>
+        </ul>
     </div>
+</section>
+
+<section id="main-content" ui-view></section>
+
 </body>

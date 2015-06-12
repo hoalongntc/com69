@@ -10,9 +10,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0002",
@@ -25,9 +25,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0003",
@@ -40,9 +40,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0004",
@@ -55,9 +55,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0005",
@@ -70,9 +70,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0006",
@@ -85,9 +85,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0007",
@@ -100,9 +100,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0008",
@@ -115,9 +115,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0009",
@@ -130,9 +130,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0010",
@@ -145,9 +145,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0011",
@@ -160,9 +160,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0012",
@@ -175,9 +175,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0013",
@@ -190,9 +190,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0014",
@@ -205,9 +205,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0015",
@@ -220,9 +220,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0016",
@@ -235,9 +235,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0017",
@@ -250,9 +250,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0018",
@@ -265,9 +265,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0019",
@@ -280,9 +280,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0020",
@@ -295,9 +295,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0021",
@@ -310,9 +310,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0022",
@@ -325,9 +325,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0023",
@@ -340,9 +340,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0024",
@@ -355,9 +355,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0025",
@@ -370,9 +370,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0026",
@@ -385,9 +385,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0027",
@@ -400,9 +400,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0028",
@@ -415,9 +415,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0029",
@@ -430,9 +430,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0030",
@@ -445,9 +445,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0031",
@@ -460,9 +460,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0032",
@@ -475,9 +475,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0033",
@@ -490,9 +490,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0034",
@@ -505,9 +505,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0035",
@@ -520,9 +520,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0036",
@@ -535,9 +535,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0037",
@@ -550,9 +550,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0038",
@@ -565,9 +565,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0039",
@@ -580,9 +580,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0040",
@@ -595,9 +595,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0041",
@@ -610,9 +610,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0042",
@@ -625,9 +625,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0043",
@@ -640,9 +640,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0044",
@@ -655,9 +655,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0045",
@@ -670,9 +670,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0046",
@@ -685,9 +685,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0047",
@@ -700,9 +700,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0048",
@@ -715,9 +715,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0049",
@@ -730,9 +730,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0050",
@@ -745,9 +745,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0051",
@@ -760,9 +760,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0052",
@@ -775,9 +775,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0053",
@@ -790,9 +790,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0054",
@@ -805,9 +805,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0055",
@@ -820,9 +820,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0056",
@@ -835,9 +835,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0057",
@@ -850,9 +850,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0058",
@@ -865,9 +865,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0059",
@@ -880,9 +880,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0060",
@@ -895,9 +895,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0061",
@@ -910,9 +910,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0062",
@@ -925,9 +925,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0063",
@@ -940,9 +940,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0064",
@@ -955,9 +955,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0065",
@@ -970,9 +970,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0066",
@@ -985,9 +985,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0067",
@@ -1000,9 +1000,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0068",
@@ -1015,9 +1015,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0069",
@@ -1030,9 +1030,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0070",
@@ -1045,9 +1045,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0071",
@@ -1060,9 +1060,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0072",
@@ -1075,9 +1075,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0073",
@@ -1090,9 +1090,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0074",
@@ -1105,9 +1105,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0075",
@@ -1120,9 +1120,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0076",
@@ -1135,9 +1135,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0077",
@@ -1150,9 +1150,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0078",
@@ -1165,9 +1165,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0079",
@@ -1180,9 +1180,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0080",
@@ -1195,9 +1195,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0081",
@@ -1210,9 +1210,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0082",
@@ -1225,9 +1225,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0083",
@@ -1240,9 +1240,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0084",
@@ -1255,9 +1255,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0085",
@@ -1270,9 +1270,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0086",
@@ -1285,9 +1285,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0087",
@@ -1300,9 +1300,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0088",
@@ -1315,9 +1315,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0089",
@@ -1330,9 +1330,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0090",
@@ -1345,9 +1345,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0091",
@@ -1360,9 +1360,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0092",
@@ -1375,9 +1375,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0093",
@@ -1390,9 +1390,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0094",
@@ -1405,9 +1405,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0095",
@@ -1420,9 +1420,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0096",
@@ -1435,9 +1435,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0097",
@@ -1450,9 +1450,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0098",
@@ -1465,9 +1465,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0099",
@@ -1480,9 +1480,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0100",
@@ -1495,9 +1495,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0101",
@@ -1510,9 +1510,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0102",
@@ -1525,9 +1525,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0103",
@@ -1540,9 +1540,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0104",
@@ -1555,9 +1555,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0105",
@@ -1570,9 +1570,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0106",
@@ -1585,9 +1585,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0107",
@@ -1600,9 +1600,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-03 10:07:20",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-03 10:07:20"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0108",
@@ -1615,9 +1615,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-11 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-11 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0109",
@@ -1630,9 +1630,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-11 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-11 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0110",
@@ -1645,9 +1645,9 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-11 06:05:53",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-11 06:05:53"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_ID": "PRD0111",
@@ -1660,8 +1660,8 @@
     "SPLR_ID": 1,
     "DEL_FLG": "N",
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 05:40:12",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 05:40:12"
+    "UPD_DT": {"$date": 1434080545346}
   }
 ]

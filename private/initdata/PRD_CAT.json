@@ -5,9 +5,9 @@
     "PRD_DESC": "Cơm 25K/phần",
     "PRNT_ID": null,
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:01:17",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:01:17"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_CAT_ID": "CAT0002",
@@ -15,9 +15,9 @@
     "PRD_DESC": "Các loại cơm khác",
     "PRNT_ID": null,
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:01:17",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:01:17"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_CAT_ID": "CAT0003",
@@ -25,9 +25,9 @@
     "PRD_DESC": "Các loại món ăn",
     "PRNT_ID": null,
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:01:17",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:01:17"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_CAT_ID": "CAT0004",
@@ -35,9 +35,9 @@
     "PRD_DESC": "Món kèm món chính",
     "PRNT_ID": null,
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 06:01:17",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 06:01:17"
+    "UPD_DT": {"$date": 1434080545346}
   },
   {
     "PRD_CAT_ID": "CAT0005",
@@ -45,8 +45,8 @@
     "PRD_DESC": "Các loại combo đặc biệt",
     "PRNT_ID": null,
     "CRE_USR": "admin",
-    "CRE_DT": "2015-06-07 07:06:59",
+    "CRE_DT": {"$date": 1434080545346},
     "UPD_USR": "admin",
-    "UPD_DT": "2015-06-07 07:06:59"
+    "UPD_DT": {"$date": 1434080545346}
   }
 ]

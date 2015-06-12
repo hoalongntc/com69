@@ -1,3 +1,3 @@
-Meteor.publish("PRD_CAT", function () {
-    return ProductCategory.find({});
-});
+//Meteor.publish("PRD_CAT", function () {
+//    return ProductCategory.find({});
+//});

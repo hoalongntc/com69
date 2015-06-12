@@ -1,3 +1,11 @@
-Meteor.publish("PRD", function () {
-    return Product.find({});
+//Meteor.publish("PRD", function () {
+//    return Product.find({});
+//});
+
+Meteor.publish("productForToday", function() {
+	var prdIds = Menu.find({MNU_DT: moment().format('YYYY-MM-DD')}).fetch().map(function(m) {
+		return m.PRD_ID;
+	});
+
+	return Product.find({PRD_ID: {$in: prdIds}});
 });

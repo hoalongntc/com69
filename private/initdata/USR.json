@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@com69.net",
+    "password": "admin",
+    "roles": ["admin"]
+  },
+  {
+    "username": "lucduong",
+    "email": "duongtuanluc@live.com",
+    "password": "lucduong",
+    "roles": ["admin"]
+  }
+]
